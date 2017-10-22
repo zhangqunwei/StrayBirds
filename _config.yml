@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: zhangqunwei
-baseurl: /StrayBirds
+baseurl: /WebTemplate
 markdown: redcarpet
 safe: false
 highlighter: pygments
